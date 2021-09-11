@@ -7,5 +7,5 @@
 	email = fitriaamelia110@gmail.com
 	name = FitriaAmelia
 [remote "origin"]
-	url = https://gph_HNxpuGGeD9R9q3iDwMHuIADJHk48E94aTuqC@github.com/FitriaAmelia/latihan.git
+	url = https://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@github.com/FitriaAmelia/latihan.git
 	fetch = +refs/heads/*:refs/remotes/origin/*
